@@ -1,0 +1,101 @@
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Release\sfe-1.exe.config
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\sfe-1.csproj.ResolveComReference.cache
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\sfe-1.csprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.bonne.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.catalogue.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.chargemant.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.client.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.commande.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.commandefournisseur.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.facture.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.fiche_fournisseur.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.chate.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.fournisseur.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.historique.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.login.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.left_brare.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.notyf.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.Parametre.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.principale.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.produit.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.proprite.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.Statistique.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.type_depot.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\WindowsFormsApplication1.user.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Release\sfe-1.csproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\sfe-1.csprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\sfe-1.csproj.ResolveComReference.cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.bonne.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.catalogue.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.chargemant.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.client.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.commande.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.commandefournisseur.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.detail.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.facture.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.factureimprimer.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.fiche_fournisseur.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.chate.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.fournisseur.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.historique.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.login.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.left_brare.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.notyf.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.Parametre.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.principale.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.produit.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.proprite.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.Statistique.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.type_depot.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.user.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\sfe-1.csproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\RdlCompile.cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\RdlCompile.compiled
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Release\sfe-1.exe.config
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.notificationicon.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.tools.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.top_bare.resources
+D:\sfe1\sfe-1\bin\Release\sfe-1.exe.config
+D:\sfe1\sfe-1\obj\Release\Interop.WMPLib.dll
+D:\sfe1\sfe-1\obj\Release\AxInterop.WMPLib.dll
+D:\sfe1\sfe-1\obj\Release\sfe-1.csproj.ResolveComReference.cache
+D:\sfe1\sfe-1\obj\Release\sfe-1.csprojResolveAssemblyReference.cache
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.bonne.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.catalogue.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.chargemant.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.client.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.commande.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.commandefournisseur.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.detail.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.facture.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.factureimprimer.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.fiche_fournisseur.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.chate.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.fournisseur.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.historique.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.login.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.left_brare.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.notificationicon.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.notyf.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.Parametre.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.principale.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.produit.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.proprite.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.Statistique.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.tools.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.top_bare.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.type_depot.resources
+D:\sfe1\sfe-1\obj\Release\WindowsFormsApplication1.user.resources
+D:\sfe1\sfe-1\obj\Release\sfe-1.csproj.GenerateResource.Cache
+D:\sfe1\sfe-1\obj\Release\RdlCompile.cache
+D:\sfe1\sfe-1\obj\Release\RdlCompile.compiled
+D:\sfe1\sfe-1\obj\Release\sfe-1.TrustInfo.xml
+D:\sfe1\sfe-1\obj\Release\sfe-1.exe
+D:\sfe1\sfe-1\obj\Release\sfe-1.pdb

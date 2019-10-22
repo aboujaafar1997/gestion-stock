@@ -1,0 +1,212 @@
+C:\Users\othmane\Desktop\sfe-1\sfe-1\bin\Debug\sfe-1.exe.config
+C:\Users\othmane\Desktop\sfe-1\sfe-1\bin\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe-1\sfe-1\bin\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe-1\sfe-1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\othmane\Desktop\sfe-1\sfe-1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\sfe-1.csprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.left_brare.resources
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.principale.resources
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\sfe-1.csproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.login.resources
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.catalogue.resources
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.client.resources
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.commande.resources
+C:\Users\othmane\Desktop\sfe-1\sfe-1\obj\Debug\WindowsFormsApplication1.fournisseur.resources
+F:\sfe-1 - Copie\sfe-1\bin\Debug\sfe-1.exe.config
+F:\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.exe
+F:\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.pdb
+F:\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.csprojResolveAssemblyReference.cache
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.catalogue.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.client.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.commande.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.commandefournisseur.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.fournisseur.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.login.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.left_brare.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.Parametre.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.principale.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.produit.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.Statistique.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.user.resources
+F:\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.csproj.GenerateResource.Cache
+F:\sfe-1 - Copie\sfe-1\bin\Debug\sfe-1.exe
+F:\sfe-1 - Copie\sfe-1\bin\Debug\sfe-1.pdb
+F:\sfe-1 - Copie\sfe-1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\sfe-1 - Copie\sfe-1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\sfe-1 - Copie\sfe-1\bin\Debug\MySql.Data.dll
+F:\sfe-1 - Copie\sfe-1\bin\Debug\MySql.Data.xml
+F:\sfe-1 - Copie\sfe-1\bin\Debug\Interop.WMPLib.dll
+F:\sfe-1 - Copie\sfe-1\bin\Debug\AxInterop.WMPLib.dll
+F:\sfe-1 - Copie\sfe-1\obj\Debug\Interop.WMPLib.dll
+F:\sfe-1 - Copie\sfe-1\obj\Debug\AxInterop.WMPLib.dll
+F:\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.csproj.ResolveComReference.cache
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\sfe-1.exe.config
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.csproj.ResolveComReference.cache
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\MySql.Data.xml
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.csprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.catalogue.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.client.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.commande.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.commandefournisseur.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.fournisseur.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.login.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.left_brare.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.Parametre.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.principale.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.produit.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.Statistique.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.user.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\sfe-1.csproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.historique.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.facture.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.fiche_fournisseur.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.proprite.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.bonne.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.chargemant.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.chate.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.notyf.resources
+C:\Users\othmane\Desktop\sfe-1 - Copie\sfe-1\obj\Debug\WindowsFormsApplication1.type_depot.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\sfe-1.exe.config
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\sfe-1.csproj.ResolveComReference.cache
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\MySql.Data.xml
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-2\sfe-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\sfe-1.csprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.bonne.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.catalogue.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.chargemant.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.client.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.commande.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.commandefournisseur.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.facture.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.fiche_fournisseur.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.chate.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.fournisseur.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.historique.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.login.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.left_brare.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.notyf.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.Parametre.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.principale.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.produit.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.proprite.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.Statistique.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.type_depot.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\WindowsFormsApplication1.user.resources
+C:\Users\othmane\Desktop\sfe-2\sfe-1\obj\Debug\sfe-1.csproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\sfe-1.exe.config
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.csproj.ResolveComReference.cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.bonne.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.catalogue.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.chargemant.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.client.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.commande.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.commandefournisseur.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.facture.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.fiche_fournisseur.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.chate.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.fournisseur.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.historique.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.login.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.left_brare.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.notyf.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.Parametre.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.principale.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.produit.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.proprite.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.Statistique.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.type_depot.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.user.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.csproj.GenerateResource.Cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\sfe-1.exe
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\sfe-1.pdb
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.detail.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.factureimprimer.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\RdlCompile.cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\RdlCompile.compiled
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\sfe-1.exe.manifest
+C:\Users\othmane\Desktop\sfe1\sfe-1\bin\Debug\sfe-1.application
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.TrustInfo.xml
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.exe.manifest
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.application
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\sfe-1.csprojResolveAssemblyReference.cache
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.tools.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.top_bare.resources
+C:\Users\othmane\Desktop\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.notificationicon.resources
+E:\sfe1\sfe-1\bin\Debug\sfe-1.exe.config
+E:\sfe1\sfe-1\obj\Debug\Interop.WMPLib.dll
+E:\sfe1\sfe-1\obj\Debug\AxInterop.WMPLib.dll
+E:\sfe1\sfe-1\obj\Debug\sfe-1.csproj.ResolveComReference.cache
+E:\sfe1\sfe-1\obj\Debug\sfe-1.exe
+E:\sfe1\sfe-1\obj\Debug\sfe-1.pdb
+D:\sfe1\sfe-1\bin\Debug\sfe-1.exe.config
+D:\sfe1\sfe-1\obj\Debug\Interop.WMPLib.dll
+D:\sfe1\sfe-1\obj\Debug\AxInterop.WMPLib.dll
+D:\sfe1\sfe-1\obj\Debug\sfe-1.csproj.ResolveComReference.cache
+D:\sfe1\sfe-1\obj\Debug\sfe-1.exe
+D:\sfe1\sfe-1\obj\Debug\sfe-1.pdb
+D:\sfe1\sfe-1\obj\Debug\sfe-1.csprojResolveAssemblyReference.cache
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.bonne.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.catalogue.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.chargemant.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.client.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.commande.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.commandefournisseur.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.detail.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.facture.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.factureimprimer.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.fiche_fournisseur.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.chate.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.fournisseur.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.historique.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.login.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.left_brare.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.notificationicon.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.notyf.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.Parametre.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.principale.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.produit.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.proprite.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.Statistique.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.tools.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.top_bare.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.type_depot.resources
+D:\sfe1\sfe-1\obj\Debug\WindowsFormsApplication1.user.resources
+D:\sfe1\sfe-1\obj\Debug\sfe-1.csproj.GenerateResource.Cache
+D:\sfe1\sfe-1\obj\Debug\RdlCompile.cache
+D:\sfe1\sfe-1\obj\Debug\RdlCompile.compiled
+D:\sfe1\sfe-1\obj\Debug\sfe-1.TrustInfo.xml

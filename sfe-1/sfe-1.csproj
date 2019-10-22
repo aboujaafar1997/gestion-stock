@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{350FEB0F-0150-4398-87E4-D77EFA6D479A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>sfe-1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>10262188_1827391224152696_245065545966975880_n.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>235D94F374087B63B1BE8146475B01120B3E8CD5</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>sfe-1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\project vb\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bonne.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bonne.Designer.cs">
+      <DependentUpon>bonne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chargemant.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="chargemant.Designer.cs">
+      <DependentUpon>chargemant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="client.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="client.Designer.cs">
+      <DependentUpon>client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="commande.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="commande.Designer.cs">
+      <DependentUpon>commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="commandefournisseur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="commandefournisseur.Designer.cs">
+      <DependentUpon>commandefournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detail.Designer.cs">
+      <DependentUpon>detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="facture.Designer.cs">
+      <DependentUpon>facture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="factureimprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="factureimprimer.Designer.cs">
+      <DependentUpon>factureimprimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fiche_fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fiche_fournisseur.Designer.cs">
+      <DependentUpon>fiche_fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chate.Designer.cs">
+      <DependentUpon>chate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fournisseur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fournisseur.Designer.cs">
+      <DependentUpon>fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="historique.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="historique.Designer.cs">
+      <DependentUpon>historique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="left_brare.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="left_brare.Designer.cs">
+      <DependentUpon>left_brare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="catalogue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="catalogue.Designer.cs">
+      <DependentUpon>catalogue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notificationicon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="notificationicon.Designer.cs">
+      <DependentUpon>notificationicon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notyf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notyf.Designer.cs">
+      <DependentUpon>notyf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Parametre.Designer.cs">
+      <DependentUpon>Parametre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="principale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principale.Designer.cs">
+      <DependentUpon>principale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="produit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="produit.Designer.cs">
+      <DependentUpon>produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="proprite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proprite.Designer.cs">
+      <DependentUpon>proprite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sfeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sfeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="speck.cs" />
+    <Compile Include="Statistique.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Statistique.Designer.cs">
+      <DependentUpon>Statistique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tools.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tools.Designer.cs">
+      <DependentUpon>tools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="top_bare.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="top_bare.Designer.cs">
+      <DependentUpon>top_bare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="type-depot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="type-depot.Designer.cs">
+      <DependentUpon>type-depot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bonne.resx">
+      <DependentUpon>bonne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="catalogue.resx">
+      <DependentUpon>catalogue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chargemant.resx">
+      <DependentUpon>chargemant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="commande.resx">
+      <DependentUpon>commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="commandefournisseur.resx">
+      <DependentUpon>commandefournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detail.resx">
+      <DependentUpon>detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facture.resx">
+      <DependentUpon>facture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="factureimprimer.resx">
+      <DependentUpon>factureimprimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fiche_fournisseur.resx">
+      <DependentUpon>fiche_fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chate.resx">
+      <DependentUpon>chate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fournisseur.resx">
+      <DependentUpon>fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historique.resx">
+      <DependentUpon>historique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="left_brare.resx">
+      <DependentUpon>left_brare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notificationicon.resx">
+      <DependentUpon>notificationicon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notyf.resx">
+      <DependentUpon>notyf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre.resx">
+      <DependentUpon>Parametre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principale.resx">
+      <DependentUpon>principale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="produit.resx">
+      <DependentUpon>produit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="proprite.resx">
+      <DependentUpon>proprite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Statistique.resx">
+      <DependentUpon>Statistique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tools.resx">
+      <DependentUpon>tools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="top_bare.resx">
+      <DependentUpon>top_bare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="type-depot.resx">
+      <DependentUpon>type-depot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sfe-1_TemporaryKey.pfx" />
+    <None Include="sfeDataSet.xsc">
+      <DependentUpon>sfeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sfeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sfeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sfeDataSet.xss">
+      <DependentUpon>sfeDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10262188_1827391224152696_245065545966975880_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="10262188_1827391224152696_245065545966975880_n.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
